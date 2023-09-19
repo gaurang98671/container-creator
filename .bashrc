@@ -28,7 +28,7 @@ alias my_binary3="${MAGENTA}my_binary3${RESET}"
 # alias mv='mv -i'
 
 # Add a custom greeting message when opening a new terminal
-echo -e "${CYAN}Welcome to your stylish terminal!${RESET}"
+echo -e "${CYAN}Welcome to your terminal!${RESET}"
 
 # Change the title of your terminal window/tab
 title() {
